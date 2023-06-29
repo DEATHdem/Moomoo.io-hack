@@ -1,7 +1,7 @@
 // // ==UserScript==
-// @name        Death mod
-// @author       DEATHdem github 
-// @description  skidded antimoooaddict
+// @name        DEATH Mod
+// @author       DEATHdem github
+// @description  DEATH
 // @version      v1.1
 // @match        *://*.moomoo.io/*
 // @require      https://rawgit.com/kawanet/msgpack-lite/master/dist/msgpack.min.js
@@ -147,12 +147,12 @@ function getTexturePackImg(id, type) {
 
 })();
 
-    document.getElementById("mainMenu").style.backgroundImage = "url('https://c1.wallpaperflare.com/preview/747/358/397/love-hart-night-view-thumbnail.jpg')";
-    document.getElementById('enterGame').innerHTML = '𝐆𝐞𝐭 𝐆𝐨𝐨𝐝';
+    document.getElementById("mainMenu").style.backgroundImage = "url('https://i.redd.it/bcph9zfdh02a1.png')";
+    document.getElementById('enterGame').innerHTML = 'Get fucked';
     document.getElementById('enterGame').style.color = 'text-shadow: red 1px 1px 40px;';
     document.getElementById('nameInput').placeholder = ":/";
     document.getElementById('diedText').innerHTML = '𝐈𝐦𝐚𝐠𝐢𝐧𝐞 𝐃𝐢𝐞';
-    document.getElementById('gameName').innerHTML = '𝐒𝐭𝐚𝐫𝐂𝐥𝐢𝐞𝐧𝐭';
+    document.getElementById('gameName').innerHTML = 'DEATH';
     document.getElementById("leaderboard").append ('𝐋𝐞𝐚𝐝𝐞𝐫𝐁𝐨𝐚𝐫𝐝');
     document.getElementById("leaderboard").style.color = "text-shadow: green 1px 1px 40px;";
 
