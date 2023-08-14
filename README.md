@@ -4,3 +4,4 @@ copy script
 go to tampermonkey dashboard press + at top left
 delete everything
 press control v
+then refresh moomoo.io
